@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.maxwidth{
+    max-width: 900px;
+}
+
+body{
+    background-color: #2f0505;
+}
+
+nav{
+    background-color: #fff9ee;
+    display: flex;
+    justify-content: center;
+}
+
+.navlisti{
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+main{
+    background-color: white;
+}
+
+header{
+    text-align: center;
+    color: white;
+    padding: 1rem;
+    border-bottom: solid 5px #ffe7ae;
+}
+
+.Fotur {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    text-align: center;
+    color: white;
+    padding-top: 1rem;
+    border-top: solid 5px #ffe7ae; 
+}
+
+.listi{
+    list-style-type: none;
+}
+
+.forsida{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+
+th, td{
+    padding: 1rem;
+}
+
+.paddingall{
+    padding: 1rem;
+}
+
+tr:nth-child(even) {
+    background-color: #ffe7ae;
+}
+
+.boxlitur{
+    background-color: #ffe7ae;
+}
+
+.mainpantanir{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.div{
+    flex-direction: column;
+}
+
+.border{
+    border: solid 1px black;
+    vertical-align: top;
+    height: 350px;
+}
+
+.width{
+    width: 30%;
+}
+
+.paddingtop{
+    padding-top: 1rem;
+}
+
+.paddingbot{
+    padding-bottom: 1rem;
+}
+
+.width1{
+    width: 45%
+}
+
+.width2{
+    display: flex;
+    
+}
+
+.height{
+    height: 200px;
+}
+
+.umokkur{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.forsida1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    vertical-align: top;
+}
+
+.a{
+    object-fit: cover;
+    object-position: top;
+}
+
+.colorpic{
+    background-color: #ffe7ae;
+    padding: 0.5rem;
+}
+
+.hrw{
+    width: 250px;
+}
+
+.h2padding{
+    padding-left: 16.5rem;
+}
+
+.saga{
+    padding-left: 16.5rem;
+    padding-right: 16.5rem;
+}
+
+.saga1{
+    max-width: 15rem;
+}
+
+.texti{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.float{
+    margin-inline: 7.5rem;
+}
+
+.margin{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.sagaw{
+    width: 650px;
+}
+
+.width900{
+    width: 590px;
+}
+
+.margintop{
+    margin-top: 1rem;
+}
+
+.borderf{
+    height: 300px;
+    width: 300px;
+    border: solid 1px black;
+}
+
+.borderfl{
+    height: 100px;
+    width: 300px;
+    border: solid 1px black;
+}
+
+.marginl{
+    margin-left: 1rem;
+}
